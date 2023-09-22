@@ -1,0 +1,207 @@
+skip to main content
+
+
+
+
+
+
+
+PEOPLE
+7
+
+CHAT
+
+APPS
+
+SETTINGS
+EVERYONEDIRECT MESSAGES
+Jesse Scott - Instructor
+8:58 AM
+Welcome to Red Hat DO295! Class will begin at 9:30 AM Eastern.
+I'll be away from the keyboard until we start at that time. Thank you!
+Jesse Scott - Instructor
+9:26 AM
+Good morning and happy Friday! I'll hop on mic to get us started soon.
+Nagarjuna Reddy
+9:28 AM
+Good Morning all.
+Terry
+9:29 AM
+happy friday
+Andrew Pasquale
+9:29 AM
+hey all
+Zoe Peng
+9:29 AM
+Morning all
+Me
+9:30 AM
+Good Morning
+Me
+9:39 AM
+?
+Jesse Scott - Instructor
+9:39 AM
+EX188
+EX288
+Jesse Scott - Instructor
+9:42 AM
+https://www.redhat.com/en/services/certification/ways-to-test
+Jesse Scott - Instructor
+9:45 AM
+https://www.redhat.com/en/services/certification/exam-preparation
+Jesse Scott - Instructor
+9:49 AM
+https://www.redhat.com/en/services/training/ex188-red-hat-certified-specialist-containers-exam
+Jesse Scott - Instructor
+9:51 AM
+https://www.redhat.com/en/services/training/ex288-red-hat-certified-openshift-application-developer-exam
+Andrew Pasquale
+9:53 AM
+how much do the exams cost for the ex188, ex288?
+ok
+Andrew Pasquale
+9:55 AM
+thank you
+Jesse Scott - Instructor
+10:01 AM
+https://docs.openshift.com/
+Me
+10:03 AM
+?
+Jesse Scott - Instructor
+10:04 AM
+https://access.redhat.com/support/policy/updates/openshift
+Me
+10:06 AM
+Thank you
+Jesse Scott - Instructor
+10:09 AM
+https://access.redhat.com/products/
+Jesse Scott - Instructor
+10:11 AM
+https://access.redhat.com/support
+Jesse Scott - Instructor
+10:16 AM
+https://learn.redhat.com/
+Jesse Scott - Instructor
+10:20 AM
+https://developers.redhat.com/
+Andrew Pasquale
+10:26 AM
+do you daily drive REHL at home?
+Jesse Scott - Instructor
+10:32 AM
+Taking the course survey
+https://rol.redhat.com
+Jesse Scott - Instructor
+10:34 AM
+Thank you for your participation in our course survey! Please post Done as you finish. We'll continue once the team finishes the survey.
+Terry
+10:34 AM
+done
+Zoe Peng
+10:36 AM
+done
+Longhai Cheng
+10:38 AM
+can i get the link
+Jesse Scott - Instructor
+10:39 AM
+https://rol.redhat.com
+Longhai Cheng
+10:39 AM
+find it
+Nagarjuna Reddy
+10:40 AM
+done
+Me
+10:41 AM
+done
+Andrew Pasquale
+10:42 AM
+done
+?
+Longhai Cheng
+10:45 AM
+done
+Jesse Scott - Instructor
+11:04 AM
+GE on p. 380
+Please post Done as you finish, thank you!
+This is the last GE of the course, so we are all done after this one. Thank you for being such a great group to teach this week!
+I'll stay online for a bit longer in case anyone needs a hand with the activity.
+Also, if you have any final questions, please post them, I'll be happy to answer.
+Again, thank you and have a great weekend!
+Jesse Scott - Instructor
+11:10 AM
+Stepping away from the keyboard for a moment, I'll be right back.
+Jesse Scott - Instructor
+11:12 AM
+Back
+Zoe Peng
+11:31 AM
+question: I am on 4.2. after the mvn build and checking micro-java-deployment.yml but I don't see the configMapRef: in the yml.
+Jesse Scott - Instructor
+11:31 AM
+Checking yours, Zoe!
+Zoe Peng
+11:31 AM
+👍
+Jesse Scott - Instructor
+11:32 AM
+I see, you'll need to add that one. I'll show you where.
+Terry
+11:33 AM
+done
+Andrew Pasquale
+11:33 AM
+done
+Jesse, that is actually a pretty useful exercise for us.
+Terry
+11:34 AM
+it is the one most related to what we do here
+please do!
+thank you
+Andrew Pasquale
+11:35 AM
+?
+Longhai Cheng
+11:35 AM
+?4.1
+Jesse Scott - Instructor
+11:37 AM
+Will share those developer resources is just a moment. Longhai, checking your step 4.1 now!
+Type your message
+
+
+JI
+Jesse Scott - Instructor
+T
+Terry
+NR
+Nagarjuna Reddy
+ZP
+Zoe Peng
+AP
+Andrew Pasquale
+LC
+Longhai Cheng
+C
+
+
+
+
+
+
+
+Logo
+ABOUT
+TERMS
+PRIVACY POLICY
+THIRD PARTY COPYRIGHT
+
+wmc-Bwmc67-V67.0.0-2db6096-31691 z70
+Blue Jeans Network, Inc. © 2023
+
+REPORT AN ISSUE
